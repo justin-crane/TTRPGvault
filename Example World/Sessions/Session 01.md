@@ -9,7 +9,7 @@ level: "1"
 ---
 # Players 
 ```dataview
-TABLE race as "Race", class as "Class", subclass as "Subclass"
+TABLE ancestry as "Ancestry", class as "Class", subclass as "Subclass"
 WHERE econtains(tags, "pc") and !econtains(tags, "template") and name != "{{title}}"
 ```
 

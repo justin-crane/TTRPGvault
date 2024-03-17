@@ -2,7 +2,7 @@
 tags:
   - pc
 name: "{{title}}"
-race: 
+ancestry: 
 class: 
 player: 
 playerPronouns: 
@@ -12,7 +12,7 @@ items:
 Name: `=this.name`
 Player: `=this.player`
 Player Pronouns: `=this.playerPronouns`
-Race: `=this.race`
+Ancestry: `=this.ancestry`
 Class: `=this.class`
 Character Pronouns: `=this.charaPronouns`
 

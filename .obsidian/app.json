@@ -1,6 +1,6 @@
 {
   "userIgnoreFilters": [
-    "z_bin/"
+    "z_bin/templates/"
   ],
   "alwaysUpdateLinks": true
 }

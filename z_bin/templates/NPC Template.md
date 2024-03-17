@@ -5,7 +5,7 @@ name: "{{title}}"
 faction: 
 location: 
 alignment: 
-race: 
+ancestry: 
 class: 
 status: 
 items:
@@ -14,7 +14,7 @@ Name: `=this.name`
 Faction: `=this.faction`
 Location: `=this.location`
 Alignment: `=this.alignment`
-Race: `=this.race`
+Ancestry: `=this.ancestry`
 Class: `=this.class`
 Status: `=this.status`
 

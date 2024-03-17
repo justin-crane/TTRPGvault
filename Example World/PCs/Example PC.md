@@ -2,7 +2,7 @@
 tags:
   - pc
 name: Example PC
-race: tiefling
+ancestry: tiefling
 class:
   - warlock
 player: Dave
@@ -16,7 +16,7 @@ charaPronouns:
 Name: `=this.name`
 Player: `=this.player`
 Player Pronouns: `=this.playerPronouns`
-Race: `=this.race`
+Ancestry: `=this.ancestry`
 Class: `=this.class`
 Character Pronouns: `=this.charaPronouns`
 

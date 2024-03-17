@@ -6,7 +6,7 @@ faction:
   - "[[Thieves Guild]]"
 location: "[[Example Tavern]]"
 alignment: good
-race: human
+ancestry: human
 class:
   - rogue
 status: alive
@@ -17,7 +17,7 @@ Name: `=this.name`
 Faction: `=this.faction`
 Location: `=this.location`
 Alignment: `=this.alignment`
-Race: `=this.race`
+Ancestry: `=this.ancestry`
 Class: `=this.class`
 Status: `=this.status`
 Items: `=this.items`

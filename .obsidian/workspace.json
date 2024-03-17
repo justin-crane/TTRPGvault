@@ -61,21 +61,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b1b2ac3723dbe052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Example World/Example Locations/Example Country/Example City/Example Tavern/Tavern NPCs/Example Bartender.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:pc",
+                "query": "race",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Example World/Example Locations/Example Country/Example City/Example Tavern/Tavern NPCs/Example Bartender.md"
+                "file": "Welcome.md"
               }
             }
           },
@@ -162,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Example World/Example Locations/Example Country/Example City/Example Tavern/Tavern NPCs/Example Bartender.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Example World/Example Locations/Example Country/Example City/Example Tavern/Tavern NPCs/Example Bartender.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,38 +189,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1b2ac3723dbe052",
+  "active": "57cbccced38c4514",
   "lastOpenFiles": [
-    "test.md",
     "Canvas.canvas",
-    "Welcome.md",
-    "Example World/Example Locations/Example Country/Example City/Example Tavern/Tavern NPCs/Example Bartender.md",
     "Home.md",
+    "Welcome.md",
+    "Example World/Example Locations/Example Country/Example Faction/Thieves Guild.md",
+    "z_bin/templates/Session Template.md",
+    "Example World/Sessions/Session 01.md",
+    "Example World/Sessions/Session 00.md",
+    "z_bin/templates/PC Template.md",
+    "z_bin/templates/NPC Template.md",
+    "z_bin/templates/Location Template.md",
+    "Example World/Example Locations/Example Country/Example City/City NPCs/Issac Winters.md",
+    "z_bin/templates/Faction Template.md",
+    "Example World/Example Locations/Example Country/Example City/Example Tavern/Example Tavern.md",
+    "Example World/PCs/Example PC.md",
+    "Example World/Example Locations/Example Country/Example Country.md",
+    "Example World/Example Locations/Example Country/Example City/Example City.md",
+    "Example World/Example Locations/Example Country/Example City/Example Tavern/Tavern NPCs/Example Bartender.md",
+    "test.md",
     "Session.md",
     "Session 02.md",
     "Player.md",
     "TestPC.md",
-    "z_bin/templates/PC Template.md",
-    "z_bin/templates/NPC Template.md",
-    "z_bin/templates/Session Template.md",
-    "Example World/Example Locations/Example Country/Example Faction/Thieves Guild.md",
-    "z_bin/templates/Faction Template.md",
     "Example World/Example Locations/Example Country/Example City/Example Merchant/Example Merchant.md",
-    "Example World/Example Locations/Example Country/Example Country.md",
     "Example World/Example Locations/Example Country",
     "Example World/Example Locations/Example Country/Example City/Example Merchant/Example Merchant Items/Potion of Lesser Mealing.md",
     "Example World/Example Locations/Example Country/Example City/Example Merchant/Example Merchant Items/Pouch of Containing Things.md",
-    "Example World/Example Locations/Example Country/Example City/City NPCs/Issac Winters.md",
     "Example World/Example Locations/Example Country/Example City/Example Merchant/Example Merchant Items/Sword of Forceful Persuasion.md",
     "Example World/Example Locations/Example Country/Example City/Example Merchant/Example Merchant Items",
-    "Example World/Example Locations/Example Country/Example Items/Mug of Endless Ale.md",
     "Example World/Example Locations/Example Country/Example City/Example Merchant",
-    "z_bin/templates/Item Template.md",
     "Example World/Example Locations/Example Country/Example Items",
-    "Example World/Example Locations/Example Country/Example City/Example Tavern/Example Tavern.md",
-    "Example World/Sessions/Session 01.md",
-    "z_bin/templates/Location Template.md",
-    "Example World/Sessions/Session 00.md",
     "Example World/Example Locations/Example Country/Example Faction",
     "Example World/Example Locations/Example Country/Example City/Example Tavern/Tavern NPCs",
     "Example World/Example Locations/Example Country/Example City/City NPCs",

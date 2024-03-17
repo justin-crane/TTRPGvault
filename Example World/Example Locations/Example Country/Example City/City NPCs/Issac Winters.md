@@ -6,7 +6,7 @@ faction:
   - "[[Cool Wizards]]"
 location: "[[Example Merchant]]"
 alignment: neutral
-race: human
+ancestry: human
 class: 
 status: alive
 items:
@@ -15,7 +15,7 @@ Name: `=this.name`
 Faction: `=this.faction`
 Location: `=this.location`
 Alignment: `=this.alignment`
-Race: `=this.race`
+Ancestry: `=this.ancestry`
 Class: `=this.class`
 Status: `=this.status`
 

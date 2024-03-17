@@ -13,7 +13,7 @@ POI:
   - "[[Example Tavern]]"
 ---
 ```dataview
-TABLE race as "Race", class as "Class", status as "Status", alignment as "Alignment"
+TABLE ancestry as "Ancestry", class as "Class", status as "Status", alignment as "Alignment"
 WHERE (econtains(location, link(this.name)) or econtains(location, this.name)) or (econtains(locatedIn, this.name) or econtains(locatedIn, link(this.name))) and !econtains(tags, "template")
 SORT name asc
 ```
