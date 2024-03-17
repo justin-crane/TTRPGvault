@@ -63,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "race",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +164,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,33 +185,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57cbccced38c4514",
+  "active": "9213fbe006fd53ac",
   "lastOpenFiles": [
-    "Canvas.canvas",
     "Home.md",
     "Welcome.md",
+    "Example World/Example Locations/Example Country/Example City/City NPCs/Issac Winters.md",
+    "Session 02.md",
+    "Example World/Sessions/Session 01.md",
+    "Example World/Example Locations/Example Country/Example City/Example Merchant/Example Merchant.md",
+    "Example World/Example Locations/Example Country/Example City/Example Tavern/Example Tavern.md",
+    "Example World/Example Locations/Example Country/Example City/Example City.md",
+    "Canvas.canvas",
     "TTRPG Vault 2_0.zip",
     "Archive.zip",
     "Example World/Example Locations/Example Country/Example Faction/Thieves Guild.md",
     "z_bin/templates/Session Template.md",
-    "Example World/Sessions/Session 01.md",
     "Example World/Sessions/Session 00.md",
     "z_bin/templates/PC Template.md",
     "z_bin/templates/NPC Template.md",
     "z_bin/templates/Location Template.md",
-    "Example World/Example Locations/Example Country/Example City/City NPCs/Issac Winters.md",
     "z_bin/templates/Faction Template.md",
-    "Example World/Example Locations/Example Country/Example City/Example Tavern/Example Tavern.md",
     "Example World/PCs/Example PC.md",
     "Example World/Example Locations/Example Country/Example Country.md",
-    "Example World/Example Locations/Example Country/Example City/Example City.md",
     "Example World/Example Locations/Example Country/Example City/Example Tavern/Tavern NPCs/Example Bartender.md",
     "test.md",
     "Session.md",
-    "Session 02.md",
     "Player.md",
     "TestPC.md",
-    "Example World/Example Locations/Example Country/Example City/Example Merchant/Example Merchant.md",
     "Example World/Example Locations/Example Country",
     "Example World/Example Locations/Example Country/Example City/Example Merchant/Example Merchant Items/Potion of Lesser Mealing.md",
     "Example World/Example Locations/Example Country/Example City/Example Merchant/Example Merchant Items/Pouch of Containing Things.md",

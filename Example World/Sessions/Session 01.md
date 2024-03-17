@@ -23,7 +23,7 @@ WHERE econtains(tags, "pc") and !econtains(tags, "template") and name != "{{titl
 ---
 > [!tip] Session Notes
 > - Met [[Example Bartender]] in [[Example Tavern]] located in [[Example City]]
-> - 
+> - I think [[Issac Winters]] stole my gold... or my heart? unsure.
 ^sessionnote
 
 
