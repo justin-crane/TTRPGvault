@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"56aa9e1d4651c616","x":-144,"y":-189,"width":400,"height":400,"color":"5","type":"file","file":"Example World/Example Locations/Example Country/Example City/Example Tavern/Tavern NPCs/Example Bartender.md"},
+		{"id":"39c6bddb44740464","x":-680,"y":-189,"width":400,"height":400,"color":"5","type":"file","file":"Example World/Example Locations/Example Country/Example City/Example Tavern/Example Tavern.md"},
+		{"id":"19089c07eceed0cb","x":-680,"y":-1040,"width":936,"height":720,"color":"#0400ff","type":"file","file":"Example World/Example Locations/Example Country/Example City/Example City.md"},
+		{"id":"259826df0adf5953","x":-1240,"y":-860,"width":400,"height":400,"color":"3","type":"file","file":"Example World/Example Locations/Example Country/Example City/Example Merchant/Example Merchant.md"},
+		{"id":"a249e19ba8c33aa1","x":-1820,"y":-860,"width":400,"height":400,"color":"1","type":"file","file":"Example World/Example Locations/Example Country/Example City/City NPCs/Issac Winters.md"}
+	],
+	"edges":[
+		{"id":"dc71f713498dadcb","fromNode":"39c6bddb44740464","fromSide":"right","toNode":"56aa9e1d4651c616","toSide":"left","color":"5"},
+		{"id":"1e1d845566d91d91","fromNode":"19089c07eceed0cb","fromSide":"bottom","toNode":"39c6bddb44740464","toSide":"top","color":"#001eff"},
+		{"id":"d17f8b4865d847e1","fromNode":"259826df0adf5953","fromSide":"left","toNode":"a249e19ba8c33aa1","toSide":"right","color":"1"},
+		{"id":"f125f172b1e500e0","fromNode":"19089c07eceed0cb","fromSide":"left","toNode":"259826df0adf5953","toSide":"right","color":"3"}
+	]
+}

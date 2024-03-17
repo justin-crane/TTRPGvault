@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "template": "checkbox",
+    "faction": "multitext",
+    "POI": "multitext",
+    "locatedIn": "multitext",
+    "class": "multitext",
+    "playerPronounsi": "multitext",
+    "charaPronouns": "multitext",
+    "playerPronouns": "multitext",
+    "items": "multitext",
+    "price": "number"
+  }
+}

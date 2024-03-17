@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "fefd07a69aded6b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d1ce866210846ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63ceb5644fe7b9ef",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas.canvas",
+                "viewState": {
+                  "x": -753.742867009828,
+                  "y": -465.9039631238118,
+                  "zoom": -0.9999999999999998
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9213fbe006fd53ac",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "e0be88206b777241",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "57cbccced38c4514",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b1b2ac3723dbe052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Example World/Example Locations/Example Country/Example City/Example Tavern/Tavern NPCs/Example Bartender.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5107175d8e6a9884",
+    "type": "split",
+    "children": [
+      {
+        "id": "77d8f67c7e9c4006",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbbf3928a9e7d388",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "771432cb16ca23ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2bcb59bb25b8229b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5
+  },
+  "right": {
+    "id": "0f8446d63c1e224b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d8ba78a1b239db8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a53c9f95561636f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:pc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6cb90a01c79d7702",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Example World/Example Locations/Example Country/Example City/Example Tavern/Tavern NPCs/Example Bartender.md"
+              }
+            }
+          },
+          {
+            "id": "9d9b965c229bb99d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Example World/Example Locations/Example Country/Example City/Example Tavern/Tavern NPCs/Example Bartender.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c85f446fd6a95be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Example World/Example Locations/Example Country/Example City/Example Tavern/Tavern NPCs/Example Bartender.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b1b2ac3723dbe052",
+  "lastOpenFiles": [
+    "test.md",
+    "Canvas.canvas",
+    "Welcome.md",
+    "Example World/Example Locations/Example Country/Example City/Example Tavern/Tavern NPCs/Example Bartender.md",
+    "Home.md",
+    "Session.md",
+    "Session 02.md",
+    "Player.md",
+    "TestPC.md",
+    "z_bin/templates/PC Template.md",
+    "z_bin/templates/NPC Template.md",
+    "z_bin/templates/Session Template.md",
+    "Example World/Example Locations/Example Country/Example Faction/Thieves Guild.md",
+    "z_bin/templates/Faction Template.md",
+    "Example World/Example Locations/Example Country/Example City/Example Merchant/Example Merchant.md",
+    "Example World/Example Locations/Example Country/Example Country.md",
+    "Example World/Example Locations/Example Country",
+    "Example World/Example Locations/Example Country/Example City/Example Merchant/Example Merchant Items/Potion of Lesser Mealing.md",
+    "Example World/Example Locations/Example Country/Example City/Example Merchant/Example Merchant Items/Pouch of Containing Things.md",
+    "Example World/Example Locations/Example Country/Example City/City NPCs/Issac Winters.md",
+    "Example World/Example Locations/Example Country/Example City/Example Merchant/Example Merchant Items/Sword of Forceful Persuasion.md",
+    "Example World/Example Locations/Example Country/Example City/Example Merchant/Example Merchant Items",
+    "Example World/Example Locations/Example Country/Example Items/Mug of Endless Ale.md",
+    "Example World/Example Locations/Example Country/Example City/Example Merchant",
+    "z_bin/templates/Item Template.md",
+    "Example World/Example Locations/Example Country/Example Items",
+    "Example World/Example Locations/Example Country/Example City/Example Tavern/Example Tavern.md",
+    "Example World/Sessions/Session 01.md",
+    "z_bin/templates/Location Template.md",
+    "Example World/Sessions/Session 00.md",
+    "Example World/Example Locations/Example Country/Example Faction",
+    "Example World/Example Locations/Example Country/Example City/Example Tavern/Tavern NPCs",
+    "Example World/Example Locations/Example Country/Example City/City NPCs",
+    "Example World/Example Locations/Example Country/Example City/Example Tavern",
+    "Example World/Example Locations/Example Country/Example City",
+    "Example World/PCs",
+    "z_bin/Updated_Ekoen.jpg"
+  ]
+}
